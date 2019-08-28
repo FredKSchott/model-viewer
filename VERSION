@@ -1,0 +1,5 @@
+commit c55e8935a8cee353ebcbff05c3dd4ae6fb772fd7
+Author: Emmett Lalish <elalish@google.com>
+Date:   Wed Aug 28 11:31:53 2019 -0700
+
+    removed stage light and environment intensity (#727)
